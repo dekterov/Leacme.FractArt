@@ -4,6 +4,7 @@
 
 This application features the ability to allows generation of procedural art with the ability to edit the generation parameters as well as exporting the images.
 
+![index](https://user-images.githubusercontent.com/6654513/71702072-a4b0ac00-2d8a-11ea-8601-950b1b036906.png)
 ![][image_screenshot]
 
 ## Application Compiling
